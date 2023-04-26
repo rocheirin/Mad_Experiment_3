@@ -79,7 +79,7 @@ class _MyProfilePageState extends State<MyProfilePage> {
                   textScaleFactor: 0.95,
                 ),
                 subtitle: Text(
-                  "Dnyaneshwar Patil",
+                  "Irin Roche",
                   textScaleFactor: 1.1,
                 ),
               ),
@@ -112,7 +112,7 @@ class _MyProfilePageState extends State<MyProfilePage> {
                   textScaleFactor: 0.95,
                 ),
                 subtitle: Text(
-                  "dnyaneshwarpatil2048@gmail.com",
+                  "rocheirin11@gmail.com",
                   textScaleFactor: 1.1,
                 ),
               ),
